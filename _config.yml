@@ -1,0 +1,14 @@
+name: temporary
+layout_spectrum: 0.4822759300875178
+typography_spectrum: 0.8560535155736841
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.8303550776916022
+  lightness: 0.05262873468114149
+  saturation: 0.47864010000058765
+  rhythmicContrast: 0.7423225184489269
